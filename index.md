@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+https://octodex.github.com/images/yaktocat.png
 
 <br>
 
@@ -11,4 +11,5 @@ layout: default
 <br>
 
 {% include 03-links.md %}
+
 
